@@ -1,19 +1,132 @@
-# 👋 Hi, I'm Harsh Khatri
-# 💫 About Me:
-# About Me:<br><br>I'm an AI/ML Engineer with 1 year of hands-on experience building production-grade machine learning solutions that drive real business impact. Based in Rohtak, Haryana, I specialize in designing end-to-end ML pipelines, predictive modeling, and deploying AI systems across cloud platforms like AWS, Azure, and Google Cloud.<br><br>What I do best is translate complex business problems into high-performance ML models—whether that's classification systems achieving 94%+ accuracy, interactive analytics dashboards used by 50+ stakeholders, or scalable REST APIs handling 10K+ daily requests. I'm equally comfortable working with data preprocessing and feature engineering as I am architecting microservices and optimizing cloud infrastructure.<br><br>I'm passionate about solving hard problems collaboratively—I thrive when partnering with product, data science, and engineering teams to deliver impact. With expertise in Python, TensorFlow, PyTorch, and modern DevOps practices, I'm looking for opportunities to apply my technical foundation to challenges that push the boundaries of what's possible with AI.<br><br>**Currently:** Available immediately | Graduating with B.Tech in AI & Data Science in 2026
+<h1 align="center">Hi 👋, I'm Harsh Khatri</h1>
+<h3 align="center">AI/ML Engineer | Data Analyst | Python Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Data+Analyst;Python+Developer;Power+BI+%7C+SQL+%7C+Machine+Learning;Always+Learning+New+Technologies" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh248/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Harsh Khatri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkhatri7988320799@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Harshkhatri248&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Harshkhatri248&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harshkhatri248&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Harshkhatri248">
+    <img src="https://komarev.com/ghpvc/?username=Harshkhatri248&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Harshkhatri248&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science (2026)
+- 💼 AI/ML Engineer with hands-on experience in Machine Learning, Data Analytics & Cloud Deployment
+- 📊 Passionate about solving business problems using data
+- 🌱 Currently improving my skills in Data Engineering & Advanced Analytics
+- 💼 Open to AI/ML Engineer & Data Analyst opportunities
+- 📍 Rohtak, Haryana, India
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/harsh248/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harshkhatri7988320799@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Harshkhatri248">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### Data Analytics
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+
+### Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### Web Development
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+# 📂 Featured Projects
+
+- 🍷 Wine Quality Prediction
+- 🤖 Resume Parser
+- 👁 Face Recognition Login System
+- 📊 Business Performance Dashboard
+- 📈 Sales Analytics Dashboard
+- 🌐 Personal Portfolio Website
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshkhatri248&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshkhatri248&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Harshkhatri248&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harshkhatri248&theme=tokyonight&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshkhatri248&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Transforming raw data into actionable insights through analytics and machine learning."*
+
+---
+
+⭐ **If you like my work, don't forget to star my repositories!**
