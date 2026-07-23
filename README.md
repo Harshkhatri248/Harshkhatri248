@@ -20,7 +20,7 @@
 - 📊 Passionate about solving business problems using data
 - 🌱 Currently improving my skills in Data Engineering & Advanced Analytics
 - 💼 Open to AI/ML Engineer & Data Analyst opportunities
-- 📍 Rohtak, Haryana, India
+- 📍 Mohali, Punjab, India
 
 ---
 
